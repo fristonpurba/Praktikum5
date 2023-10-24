@@ -10,6 +10,6 @@
  [def-1]: /image/ss1.jpg
 
  - Lalu pergi ke browser  dan liat hasilnya.
- ![gambar-2][def-1]
+ ![gambar-2][def-2]
 
  [def-1]: /image/ss2.jpg
